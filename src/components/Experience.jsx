@@ -9,7 +9,7 @@ const Experience = () => {
   const experiences = [
     {
       company: 'DEBMARINE',
-      position: 'Internship',
+      position: 'Software Engineer',
       year: '2023-2024',
       projectTitle: 'Computer Vision Software',
       description: 'Building Diamond detection software that automatically detects and count diamonds and also provide reports to end users with the help of Data science. We also built a Mining tool monitory called Umbilical cord detection for maintaining and monitoring mining tools.',
